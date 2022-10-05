@@ -5,4 +5,7 @@ body{
 div{
     width: 500px;
     height: 500px;
+    font-size: small;
+    text-align: center;
+    background-color: aqua;
 }
